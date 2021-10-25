@@ -1,5 +1,5 @@
 import { observable, Observable } from 'rxjs';
-import { Project } from './models/project';
+import { Project } from 'models/project';
 import * as data from './data.json';
 
 import { HttpClient } from '@angular/common/http';

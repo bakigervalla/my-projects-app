@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "project 1",
+      "price": 1,
+      "description": "Users at Ford"
+    },
+    {
+      "id": 2,
+      "name": "project 2",
+      "price": 2,
+      "description": "Saved for Ford"
+    },
+    {
+      "id": 3,
+      "name": "project 3",
+      "price": 3,
+      "description": "New User per Week"
+    },
+    {
+      "id": 4,
+      "name": "project 4",
+      "price": 4,
+      "description": "Users At Ford"
+    }
+  ]
+}
